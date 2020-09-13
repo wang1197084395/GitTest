@@ -3,3 +3,5 @@ second:i'm here.
 	i'm going,wait;
 third:enen,three into;
 fourth:20200913
+five:test the git manage
+six:already git add
