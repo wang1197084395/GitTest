@@ -7,3 +7,5 @@ master:i'm master
 >>>>>>> dev
 
 merge test:merge master and dev, confilct
+dev1:save branch information
+
