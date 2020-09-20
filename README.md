@@ -8,4 +8,5 @@ master:i'm master
 
 merge test:merge master and dev, confilct
 dev1:save branch information
+dev2:test --no-ff
 
